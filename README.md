@@ -6,54 +6,60 @@
 ---
 
 ### 🚀 Sobre mí
-Soy un apasionado de la programación y del desarrollo web, con una mentalidad **analítica y resolutiva**.  
-Me encanta enfrentarme a nuevos retos y buscar la mejor forma de resolverlos aplicando **buenas prácticas**, **patrones de diseño** y **código limpio**.  
+Soy un apasionado de la programación y del desarrollo web, con una mentalidad **analítica y resolutiva** que me permite abordar problemas de forma **eficiente**. 
+
+Me encanta enfrentarme a nuevos retos y buscar la mejor forma de resolverlos aplicando **buenas prácticas**, **patrones de diseño** y **código limpio** en un entorno de **aprendizaje constante**. Busco soluciones **escalables** y me integro fácilmente en **equipos de trabajo** para alcanzar objetivos comunes.
 
 📚 Actualmente sigo formándome en:
-- **Java + Spring Boot**
-- **HTML5, CSS3, SASS, Bootstrap**
-- **JavaScript + jQuery**
-- **Bases de datos (MySQL)**
+- **Java + Spring Boot** (Enfoque en backend robusto)
+- **HTML5, CSS3, SASS, Bootstrap** (Maquetación y diseño responsive)
+- **JavaScript + jQuery** (Interactividad y manipulación del DOM)
+- **Bases de datos Relacionales (MySQL)**
 - **Control de versiones (Git / GitHub)**
 
 ---
 
 ### 🧠 Estoy aprendiendo...
-- Arquitecturas y diseño por capas.
-- Desarrollo de **APIs RESTful**  
-- **Metodologías ágiles** (Scrum)  
-- Mejores prácticas en desarrollo **frontend y backend**
+Mi enfoque es el **desarrollo full-stack**, con énfasis en el backend y la arquitectura.
+
+- Arquitecturas y diseño por capas (MVC, DAO/Repository/Service).
+- Desarrollo de **APIs RESTful** para la comunicación entre servicios.
+- **Metodologías ágiles** (Scrum) para la gestión eficiente de proyectos.
+- Mejores prácticas en desarrollo **frontend y backend**.
+- Bases de datos No Relacionales (NOSQL) - *Próximo objetivo: MongoDB*.
 
 ---
 
 ### 🛠️ Tecnologías que uso
-| Lenguajes | Frameworks | Herramientas | Otros |
+| Backend | Frontend | Bases de Datos | Herramientas / Testing |
 |-----------|-------------|---------------|--------|
-| Java ☕ | Spring Boot 🌱 | Git / GitHub 🔧 | MVC Pattern 🧩 |
-| JavaScript ⚡ | Bootstrap 🎨 | IntelliJ / STS 💡 | JUnit 🧪 |
-| HTML / CSS 🧱 | jQuery 💫 | VSCode 🧭 | SQL 🗄️ |
+| Java ☕ | JavaScript ⚡ | SQL (MySQL) 🗄️ | Git / GitHub 🔧 |
+| Spring Boot 🌱 | HTML / CSS 🧱 | | IntelliJ / STS 💡 |
+| Node.js 🎨 | SASS / Bootstrap | | VSCode 🧭 |
+| Thymeleaf 🧩 | jQuery 💫 | | JUnit 🧪 |
 
 ---
 
 ### 💼 Proyectos destacados
-- 🧾 **[Foro Web App](#)** – Aplicación con Spring Boot, Spring Security, Google Client y MVC  
-- 📅 **[Gestor de eventos](#)** – CRUD completo con base de datos
-- 🧠 **[Mini proyectos JS](#)** – Prácticas interactivas con DOM y API
+*Estos son algunos de mis trabajos más recientes que demuestran mi capacidad para desarrollar aplicaciones funcionales y estructuradas.*
+
+- 🧾 **[Foro Web App](https://github.com/PauMorillas/Forum-WebApp)** – Aplicación **full-stack** con **Spring Boot, Spring Security** y MVC.
+    > Permite el registro de usuarios con autenticación (incluyendo Google Client) y la publicación de hilos y comentarios, con gestión de permisos, y sesiones asegurando la integridad del back.
+- 📅 **[Gestor de eventos](Actualmente en Desarrollo)** – **CRUD** completo desarrollado con **Java y SpringBoot**.
+    > Implementa la persistencia de datos relacionales (MySQL) para la gestión completa de alta, baja, modificación y consulta de eventos y sus reservas.
+- 🧠 **[Mini proyectos JS](https://github.com/PauMorillas/Testimonials-API)** – Prácticas interactivas con DOM y API.
+    > Colección de pequeños proyectos para afianzar el manejo de JavaScript y la interacción con APIs externas.
 
 ---
 
 ### ✨ Objetivo actual
-Busco realizar mis **prácticas curriculares** en una empresa donde pueda:
-- Aprender de profesionales del sector  
-- Aplicar mis conocimientos en proyectos reales  
-- Seguir creciendo como **desarrollador web**  
+Busco realizar mis **prácticas curriculares** en una empresa con una cultura de **código limpio** donde pueda **aportar mi dedicación y mis conocimientos técnicos** en proyectos reales. Mi meta es aprender de profesionales del sector y seguir creciendo como **desarrollador web**.
 
 ---
 
 ### 📬 Contacto
-- ✉️ **Email**: morillashuertapau@gmail.com 
-- 💼 **LinkedIn**: [linkedin.com/in/pau-morillas](#)  
-- 🧑‍💻 **GitHub**: [github.com/PauMorillas](https://github.com/PauMorillas)
+- ✉️ **Email**: morillashuertapau@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/pau-morillas](https://www.linkedin.com/in/pau-morillas/)
 
 ---
 
