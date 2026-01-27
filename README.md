@@ -1,65 +1,102 @@
 # 👋 ¡Hola! Soy Pau Morillas
 
-💻 **Desarrollador de Aplicaciones Web** en formación (CFGS - DAW)  
-🎓 IES Camp de Morvedre | Valencia, España  
+💻 **Junior Full Stack Developer** | 🎓 Graduado en CFGS Desarrollo de Aplicaciones Web  
+📍 Valencia, España
 
+[![CV Web](https://img.shields.io/badge/CV_Web-Ver_mi_CV-blue?style=for-the-badge)](https://paumorillas.github.io/CV-WEB-2026-A4-STYLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pau_Morillas-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pau-morillas)
+[![Último commit](https://img.shields.io/github/last-commit/PauMorillas/Migration-PFG-DAW-ToLaravel?style=for-the-badge)](https://github.com/PauMorillas)
 ---
 
 ### 🚀 Sobre mí
-Soy un apasionado de la programación y del desarrollo web, con una mentalidad **analítica y resolutiva** que me permite abordar problemas de forma **eficiente**. 
+Soy un apasionado de la programación y del desarrollo web, con una mentalidad **analítica y resolutiva** que me permite abordar problemas de forma **eficiente**. Me encanta enfrentarme a nuevos retos y buscar la mejor forma de resolverlos aplicando **buenas prácticas, patrones de diseño y código limpio** en un entorno de aprendizaje constante. Busco siempre soluciones **escalables** y me integro con facilidad en equipos de trabajo para alcanzar objetivos comunes.
 
-Me encanta enfrentarme a nuevos retos y buscar la mejor forma de resolverlos aplicando **buenas prácticas**, **patrones de diseño** y **código limpio** en un entorno de **aprendizaje constante**. Busco soluciones **escalables** y me integro fácilmente en **equipos de trabajo** para alcanzar objetivos comunes.
-
-📚 Actualmente sigo formándome en:
-- **Java + Spring Boot** (Enfoque en backend robusto)
-- **HTML5, CSS3, SASS, Bootstrap** (Maquetación y diseño responsive)
-- **JavaScript + jQuery** (Interactividad y manipulación del DOM)
-- **Bases de datos Relacionales (MySQL)**
-- **Control de versiones (Git / GitHub)**
-
+Tras finalizar con éxito mi etapa de prácticas como **Desarrollador de Software (Internship) en Yurest Solutions**, me he consolidado como un profesional capaz de crear aplicaciones robustas aplicando arquitecturas limpias (**DDD, MVC, Repository...**). Durante este periodo:
+* Participé activamente en la migración de sistemas **Java 21** a **Laravel 11**.
+* Implementé patrones **CQRS (Command Bus)** y **Value Objects** para aislar la lógica de dominio.
+* Optimicé procesos mediante **Jobs y colas asíncronas** y trabajé en el desarrollo de componentes reutilizables con **Angular 17+**.
 ---
+## 🛠️ Stack Tecnológico
 
-### 🧠 Estoy aprendiendo...
-Mi enfoque es el **desarrollo full-stack**, con énfasis en el backend y la arquitectura.
+| Backend | Frontend | Testing | Infraestructura & BD |
+|:---|:---|:---|:---|
+| **Java 21** / **Spring Boot** 🌱 | **Angular 17+** / TypeScript 🅰️ | **JUnit** 🧪 | **Docker** / Docker Compose 🐳 |
+| **PHP 8.2** / **Laravel 11** 🧡 | JavaScript (ES6+) / HTML5 / SASS 🎨 | **PHPUnit** 🧪 | **Cloudflare Zero Trust** 🔐 |
+| Node.js / Express ⚙️ | Tailwind CSS / Bootstrap 5 🎯 | Feature & Unit Tests ✔️ | **SQL (MySQL)** 🗄️ |
+| Arq. Hexagonal 🧱 \| **DDD** | Componentes reutilizables ♻️ | Mockery (Mocks) 🎭 | **Git Flow** / GitHub 🔧 |
 
-- Arquitecturas y diseño por capas (MVC, DAO/Repository/Service).
-- Desarrollo de **APIs RESTful** para la comunicación entre servicios.
-- **Metodologías ágiles** (Scrum) para la gestión eficiente de proyectos.
-- Mejores prácticas en desarrollo **frontend y backend**.
-- Bases de datos No Relacionales (NOSQL) - *Próximo objetivo: MongoDB*.
 
----
 
-### 🛠️ Tecnologías que uso
-| Backend | Frontend | Bases de Datos | Herramientas / Testing |
-|-----------|-------------|---------------|--------|
-| Java ☕ | JavaScript ⚡ | SQL (MySQL) 🗄️ | Git / GitHub 🔧 |
-| Spring Boot 🌱 | HTML / CSS 🧱 | | IntelliJ / STS 💡 |
-| Node.js 🎨 | SASS / Bootstrap | | VSCode 🧭 |
-| Thymeleaf 🧩 | jQuery 💫 | | JUnit 🧪 |
+### 🧠 Especialización y Aprendizaje
+Mi enfoque es el **desarrollo full-stack**, con especial énfasis en el backend y la arquitectura de software:
+- Diseño de **APIs RESTful** modernas y seguras.
+- Implementación de **metodologías ágiles (Scrum/Kanban)** para la gestión de proyectos.
+- Refactorización de código y mejora del rendimiento.
+- Aplicación de principios **SOLID**.
+- *Próximo objetivo:* Profundizar en bases de datos no relacionales (NoSQL) (**MongoDB**).
 
+### 🚀 Infraestructura & Despliegue
+
+- Orquestación de entornos con **Docker Compose**.
+- Gestión de accesos y seguridad con **Cloudflare Zero Trust**.
+- Trabajo con múltiples entornos (local / staging).
+- Buenas prácticas de configuración y separación de responsabilidades.
+
+### 🧱 Arquitectura & Backend
+
+- Diseño de **APIs RESTful** semánticas.
+- Patrónes como **Repository**, **Service Layer**, **DTOs**, **CQRS**.
+- Naming de **endpoints escalables**.
+- Arquitecturas como lo es la hexagonal, MVC y Microservicios
+- Diseño guiado por el dominio (**DDD**)
+
+### 🧪 QA & Testing
+
+- **Laravel (PHPUnit)**
+  - Tests de **Feature** y **Unit**.
+  - Uso de `RefreshDatabase` para garantizar aislamiento entre tests.
+  - Tests de integración contra **base de datos real**.
+  - Tests unitarios con **Mockery** para aislar dependencias y repositorios.
+  - Validación de reglas de negocio complejas (solapamiento de reservas).
+
+- Enfoque en:
+  - Código desacoplado y testeable.
+  - Separación clara entre tests de dominio y tests de infraestructura.
+  - Fiabilidad y mantenimiento del sistema.
 ---
 
 ### 💼 Proyectos destacados
 *Estos son algunos de mis trabajos más recientes que demuestran mi capacidad para desarrollar aplicaciones funcionales y estructuradas.*
 
 - 🧾 **[Foro Web App](https://github.com/PauMorillas/Forum-WebApp)** – Aplicación **full-stack** con **Spring Boot, Spring Security** y MVC.
-    > Permite el registro de usuarios con autenticación (incluyendo Google Client) y la publicación de hilos y comentarios, con gestión de permisos, y sesiones asegurando la integridad del back.
-- 📅 **[Gestor de eventos](Actualmente en Desarrollo)** – **CRUD** completo desarrollado con **Java y SpringBoot**.
-    > Implementa la persistencia de datos relacionales (MySQL) para la gestión completa de alta, baja, modificación y consulta de eventos y sus reservas.
-- 🧠 **[Mini proyectos JS](https://github.com/PauMorillas/Testimonials-API)** – Prácticas interactivas con DOM y API.
+    > Permite el registro de usuarios con autenticación, incluyendo **Google Client** y la publicación de hilos y comentarios, con gestión de permisos, y sesiones asegurando la integridad del back.
+- 📅 **Gestor de eventos** (actualmente privado) – *Proyecto de fin de ciclo*  - **CRUD** completo desarrollado con **Java y SpringBoot**.
+    > App SaaS para la gestión de PYMES, alta, baja, modificación y consulta de eventos y sus reservas, panel de administración para los gerentes del negocio, configuración de horarios, notificaciones por correo, cancelacion de reservas...
+- 📅 **[Migration PFG DAW to Laravel](https://github.com/PauMorillas/Migration-PFG-DAW-ToLaravel)** - *Mi proyecto de fin de ciclo* pero migrado a **Laravel 11**.
+> Desarrollo lo más parecido al de una empresa: Arquitectura Hexagonal, DDD, DTOs, value objects, response objects, repositorios, tests unitarios y de integración, jobs asíncronos y lógica de dominio bien aislada.
+
+- ⭐ **[Testimonials API](https://github.com/PauMorillas/Testimonials-API)** - API hecha en Node.js con Express
+> Implementa la típica parte de reviews de una página web en un contenedor de prueba para mostrar los testimonios agregados. Sigue buenas prácticas y patrones de diseño como el MVC, Service y Repository
+
+- 🧠 **[Mini proyectos JS](https://github.com/PauMorillas/Notely-Demo)** – Prácticas interactivas con DOM y APIs.
     > Colección de pequeños proyectos para afianzar el manejo de JavaScript y la interacción con APIs externas.
 
 ---
 
 ### ✨ Objetivo actual
-Busco realizar mis **prácticas curriculares** en una empresa con una cultura de **código limpio** donde pueda **aportar mi dedicación y mis conocimientos técnicos** en proyectos reales. Mi meta es aprender de profesionales del sector y seguir creciendo como **desarrollador web**.
+Busco incorporarme como **Junior Developer / Software Developer** en un equipo donde pueda:
+
+- Aportar experiencia real en backend y frontend, testing y arquitectura.
+- Seguir aprendiendo de desarrolladores con más experiencia.
+- Trabajar con código limpio, buenas prácticas y producto real.
+
 
 ---
 
 ### 📬 Contacto
-- ✉️ **Email**: morillashuertapau@gmail.com
-- 💼 **LinkedIn**: [linkedin.com/in/pau-morillas](https://www.linkedin.com/in/pau-morillas/)
+- ✉️ **Email**: morillashuertapau@gmail.com  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/pau-morillas  
+- 🌐 **CV Web**: https://paumorillas.github.io/CV-WEB-2026-A4-STYLE  
 
 ---
 
