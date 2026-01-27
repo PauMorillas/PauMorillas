@@ -21,7 +21,7 @@ Tras finalizar con éxito mi etapa de prácticas como **Desarrollador de Softwar
 * Implementé patrones **CQRS (Command Bus)** y **Value Objects** para aislar la lógica de dominio.
 * Optimicé procesos mediante **Jobs y colas asíncronas** y trabajé en el desarrollo de componentes reutilizables con **Angular 17+**.
 ---
-## 🛠️ Stack Tecnológico
+### 🛠️ Stack Tecnológico
 
 | Backend | Frontend | Testing | Infraestructura & BD |
 |:---|:---|:---|:---|
