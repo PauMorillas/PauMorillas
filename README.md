@@ -7,13 +7,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pau_Morillas-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pau-morillas)
 ![Último commit](https://img.shields.io/github/last-commit/PauMorillas/Migration-PFG-DAW-ToLaravel?style=for-the-badge)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauMorillas&show_icons=true)
+[![Pau GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauMorillas&show_icons=true&theme=tokyonight)](https://github.com/PauMorillas?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauMorillas&layout=compact&theme=tokyonight&hide=blade,vue)](https://github.com/PauMorillas)
 
 ## Actividad continua desde 2024 hasta la Actualidad
 ![Contribuciones](https://ghchart.rshah.org/PauMorillas)
 ---
 
-### 🚀 Sobre mí
+## 🚀 Sobre mí
 Soy un apasionado de la programación y del desarrollo web, con una mentalidad **analítica y resolutiva** que me permite abordar problemas de forma **eficiente**. Me encanta enfrentarme a nuevos retos y buscar la mejor forma de resolverlos aplicando **buenas prácticas, patrones de diseño y código limpio** en un entorno de aprendizaje constante. Busco siempre soluciones **escalables** y me integro con facilidad en equipos de trabajo para alcanzar objetivos comunes.
 
 Tras finalizar con éxito mi etapa de prácticas como **Desarrollador de Software (Internship) en Yurest Solutions**, me he consolidado como un profesional capaz de crear aplicaciones robustas aplicando arquitecturas limpias y patrones de Diseño (**DDD, MVC, Repository...**). Durante este periodo:
@@ -21,7 +23,15 @@ Tras finalizar con éxito mi etapa de prácticas como **Desarrollador de Softwar
 * Implementé patrones **CQRS (Command Bus)** y **Value Objects** para aislar la lógica de dominio.
 * Optimicé procesos mediante **Jobs y colas asíncronas** y trabajé en el desarrollo de componentes reutilizables con **Angular 17+**.
 ---
+
 ### 🛠️ Stack Tecnológico
+**Favoritos actualmente:**
+<br>
+![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.4.0+-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-11-red?style=for-the-badge&logo=laravel)
+![Angular](https://img.shields.io/badge/Angular-17+-red?style=for-the-badge&logo=angular)
 
 | Backend | Frontend | Testing | Infraestructura & BD |
 |:---|:---|:---|:---|
